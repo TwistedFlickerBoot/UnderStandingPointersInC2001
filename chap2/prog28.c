@@ -27,7 +27,7 @@ main()
             printf("%d ", *(a+i * COL + j));
         printf("\n");
     }
-    getch()
+    getch();
 
     b = fun2(); /* 2nd way of returning a 2-D array */
 
