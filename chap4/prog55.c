@@ -10,7 +10,7 @@ struct node
     struct node *link; /* link part */
 };
 
-void reverse(struct node **); /* function prototype */
+reverse(struct node **); /* function prototype */
 /* function to reverse a linked list */
 
 main()
